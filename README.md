@@ -25,9 +25,12 @@ Program terdiri dari dua kelas utama:
 
 
 ## Penutup
-
 Dengan menggunakan konsep OOP dan Asyncronous, program ini dapat mengilustrasikan proses pemanggangan kue yang efisien dan mudah dipahami.
 
+
+Hasil Screenshoot Program :
+
+![Screenshot 2024-03-14 225817](https://github.com/mhmdirfn01/LP1PROVIS2024/assets/145920545/c79eff92-95f6-420e-ad40-c5370334275f)
 
 
 Identitas Penulis:
